@@ -14,3 +14,6 @@ Build
 
 # Grabacion ASCIINEMA
 https://asciinema.org/a/AW3YiZg67OZ5xqFClAUDkcqeC
+
+# Cuestionario
+https://gist.github.com/zYoyi/40b4575134a86d8dd9919b19667fd7e8
